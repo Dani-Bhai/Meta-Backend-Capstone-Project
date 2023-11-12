@@ -1,0 +1,31 @@
+admin user:
+admin
+admin
+
+Manager user:
+Manager
+manager@lemon.com
+
+user:
+john
+johnny123**
+
+
+login using:
+http://127.0.0.1:8000/auth/token/login
+
+delivery crew:
+delivery
+james11**
+
+delivery crew2:
+delivery2
+johnny123**
+
+manager2:
+manager2
+man222**
+
+manager3:
+manager3
+johnny123**
